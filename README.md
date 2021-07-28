@@ -1,6 +1,6 @@
 # Overview
 
-This project is focused on statistical analysis of a bank debt dataset. A few statistical tests and regression continuity are used to answer the problem statement. 
+This project looks at a situation where a bank assigned delinquent customers to different recovery strategies based on the expected amount the bank believed it would recover from the customer. The goal is to determine whether the incremental amount the bank earns exceeded the additional cost of assigning customers to a higher recovery strategy. Statistical tests and regression continuity are used to answer the problem statement. 
 
 
 
